@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Aman • ama8ine1712 | Builder of practical, fast, user-focused projects">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7F7FD5" offset="0%"/>
+      <stop stop-color="#86A8E7" offset="50%"/>
+      <stop stop-color="#91EAE4" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#g)"/>
+  <g>
+    <text x="50" y="120" fill="#fff" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="54" font-weight="700">Aman • ama8ine1712</text>
+    <text x="50" y="180" fill="#ffffffcc" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="28">Builder of practical, fast, user‑focused projects</text>
+    <text x="50" y="220" fill="#ffffffcc" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="20">Backend • ML • Browser Extensions • Real‑time Apps</text>
+  </g>
+</svg>
+
